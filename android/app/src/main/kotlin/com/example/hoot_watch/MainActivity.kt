@@ -1,0 +1,6 @@
+package com.example.hoot_watch
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
